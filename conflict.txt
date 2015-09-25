@@ -1,1 +1,1 @@
-this file is for conflict resolution.
+changiing the file for testing conflict .
